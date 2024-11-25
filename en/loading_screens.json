@@ -293,7 +293,7 @@
   },
   {
     "title": "Somnoire, the Illusive Realm",
-    "description": "A mysterious Gate has appeared, leading to a space called Somnoire where the dreams of all life on Solaris-3 are believed to reside..."
+    "description": "A mysterious gateway has appeared, leading to a realm known as Somnoire. Legend has it that it hosts the dreams of all beings in Solaris..."
   },
   {
     "title": "Solaris-3",
@@ -478,5 +478,49 @@
   {
     "title": "Mt. Firmament: Mianloong Chamber",
     "description": "The capsule that descended with the Sentinel upon Mt. Firmament now lies concealed in the depths of Loong's Rest, known to the people of Hongzhen as the Mianloong Chamber. \nThe townsfolk believe that Sentinel Jué may hail from a distant star, and that the Mianloong Chamber served as its hibernation capsule. This site marks the end of the pilgrimage and the gateway to Jinzhou’s true future."
+  },
+  {
+    "title": "Simulation Training",
+    "description": "Simulation Training takes place in an artificial Sonoro Sphere dedicated to combat training. Clear the challenges within for various resources."
+  },
+  {
+    "title": "Forgery Challenge",
+    "description": "A unique variant of the Sonoro Sphere that captures a moment of time. Within its depths, you'll discover byproducts of the Waveworn that can enhance both Resonators and weapons."
+  },
+  {
+    "title": "Forgery Challenge",
+    "description": "A unique variant of the Sonoro Sphere that captures a moment of time. Within its depths, you'll discover byproducts of the Waveworn that can enhance both Resonators and weapons."
+  },
+  {
+    "title": "Simulation Challenge",
+    "description": "There are a range of artificial Sonoro Spheres on this land set up to meet various demands."
+  },
+  {
+    "title": "Simulation Challenge",
+    "description": "There are a range of artificial Sonoro Spheres on this land set up to meet various demands."
+  },
+  {
+    "title": "Tower of Adversity",
+    "description": "An artificial Sonoro Sphere-based combat simulation program in development in Huanglong. \nThis facility is repurposed from an abandoned experiment site once owned by the Court of Savantae."
+  },
+  {
+    "title": "Statue of the Crownless: Heart",
+    "description": "An ember with smoldering flames. A domain of lingering memories.\nIf you step foot in this domain once more, you'll relive the memories of disasters and the \"blade of destructions\"."
+  },
+  {
+    "title": "Sinful Declension",
+    "description": "Those who are ignorant hinder progress, while the innocent suffer from the challenges imposed upon them. The embers of a fire, sparked by memories of a distant night and fueled by present circumstances, ignite the pain of Scar's past and the rebirth of new ideas, ultimately leading to the downfall of the old world order."
+  },
+  {
+    "title": "Somnoire",
+    "description": "In the ruins, chaotic nightmares lurk in the shadows..."
+  },
+  {
+    "title": "Somnoire",
+    "description": "As you step into the train carriage, a journey through a tangled web of dreams unfolds before you."
+  },
+  {
+    "title": "Somnoire",
+    "description": "In the lake, whispers of restless dreams drift gently to your ears..."
   }
 ]
